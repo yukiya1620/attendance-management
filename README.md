@@ -7,7 +7,7 @@
 
 ### Dockerビルド
 ```bash
-git clone <GitHubのリポジトリURL>
+git clone git@github.com:yukiya1620/attendance-management.git
 cd attendance-management
 docker compose up -d --build
 ```
